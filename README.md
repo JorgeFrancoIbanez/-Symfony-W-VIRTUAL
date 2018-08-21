@@ -1,5 +1,5 @@
-# Symfony room reservation
-Symfony - reservation of rooms
+# W-Virtual reservation
+## Based on Symfony
 
 
 Please read the doc section to know more about the project
