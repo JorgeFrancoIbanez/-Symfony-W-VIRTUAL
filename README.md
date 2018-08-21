@@ -1,4 +1,4 @@
-# poryecto
+# Symfony room reservation
 Symfony - reservation of rooms
 
 
